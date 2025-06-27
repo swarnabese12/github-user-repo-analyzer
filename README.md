@@ -11,7 +11,7 @@ A Rust CLI tool to fetch and display detailed GitHub repository or user profile 
 - ⚡ Fast and lightweight, written in Rust
 
 ## Example commands:
-### 1) User Details Command: cargo run -- "swarnabese12"
+### 1) User details command: cargo run -- "swarnabese12"
    #### Output:
     👤 GitHub User: swarnabese12
     
